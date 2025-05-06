@@ -1,0 +1,62 @@
+project:
+  name: Panjab Motors
+  description: >
+    Panjab Motors is a web-based platform designed to facilitate the buying and selling of used cars.
+    It provides an intuitive interface for users to browse, categorize, and sort cars efficiently,
+    while ensuring sellers can easily showcase vehicles with relevant details and contact information.
+  objectives:
+    - To create a user-friendly marketplace for used cars.
+    - To provide seamless category-based sorting for better user experience.
+    - To enable direct communication between buyers and sellers.
+    - To design a responsive platform accessible across all devices.
+  technologies:
+    frontend:
+      - HTML: Used for structuring the website content.
+      - CSS: Styles the website for an appealing and responsive design.
+    future_extensions:
+      - JavaScript: Planned enhancement for dynamic user interaction.
+      - Backend framework: Will be implemented for database management.
+  team_members:
+    - name: Mohdeep Kaushal
+      role: Developer & Project Coordinator
+      expertise:
+        - Web development
+    - name: Jagjot Singh
+      role: Frontend Developer
+      expertise:
+        - UI Design
+        - CSS Styling
+    - name: Prabhjot Singh
+      role: Frontend Developer
+      expertise:
+        - HTML structuring
+        - User experience improvement
+    - name: Jaskaran Singh
+      role: Content & Listings Manager
+      expertise:
+        - Data organization
+        - Managing vehicle details
+  features:
+    car_listing:
+      - Allows sellers to list cars with images, descriptions, and specifications.
+    category_system:
+      - Vehicles are categorized based on make, model, price range, and condition.
+    sorting_system:
+      - Users can sort listings based on price, model year, mileage, and brand.
+    user_interaction:
+      - Displays seller contact details for direct communication.
+      - Ensures smooth navigation and search functionality.
+    responsive_design:
+      - Mobile-friendly layout for accessibility across devices.
+  deployment:
+    current_status: In Progress
+    hosting_platform: TBD
+    version: 1.0
+    scalability_plan:
+      - Integrate a backend database for storing car listings and user data.
+      - Implement user authentication and profile management.
+      - Expand search filters and recommendation algorithms for better user experience.
+  future_improvements:
+    - Integration of payment gateways for secure transactions.
+    - Addition of a chat feature for real-time communication between buyers and sellers.
+    - Implementation of AI-driven pricing suggestions for optimized deals.
